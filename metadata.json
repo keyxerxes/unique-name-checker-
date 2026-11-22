@@ -1,0 +1,6 @@
+{
+  "name": "UniqueUser - Username Checker",
+  "description": "برنامه جامع پیشنهاد نام کاربری هوشمند و بررسی لحظه‌ای دسترسی در بیش از ۲۵ پلتفرم و دامنه",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
